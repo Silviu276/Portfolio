@@ -85,7 +85,7 @@ export const ABOUT_ME_DATA = {
   introduction:
     "Hi, I'm Silviu and I am 19 years old. I am an energetic and outgoing student. I learn everyday and I'm passionate about a lot of things like: web development, full stack, music production, soccer, fitness etc.",
   background:
-    "I hold a High School diploma in Computer Science. I graduated with a 9.7/10 grade in Informatics. I'm currently studying Business Administration because I am planning to combine my skills and turn them in a business.",
+    "I hold a High School diploma in Computer Science. I graduated with a 9.7/10 grade in Informatics. I'm currently studying Business Administration because I am planning to combine my skills and turn them into a business.",
   skills:
     "I'm proficient in: React.js, JavaScript, HTML, CSS(Tailwind, Bootstrap), Node.js and PostgreSQL. I also have experience with version control systems like Git and with RESTful APIs.",
   projects:
@@ -95,7 +95,7 @@ export const ABOUT_ME_DATA = {
 
   stats: {
     yearsOfExperience: "1+",
-    numberOfProjects: 3,
+    numberOfProjects: 5,
     certificationsEarned: 1,
   },
 };
